@@ -1,13 +1,6 @@
-mybookmark
+Webアプリエンジニア養成読本 自習
 ==========
 
-Webアプリエンジニア養成読本 Ruby編 自習
+-自習内容をココに記入
 
-- p.77 RubyとWebアプリケーションの基礎教養
-− 頑張って勉強するお:)
-
-# gem install するものあとで説明をたすこと。
-
-- gem install rack
-- gem install sinatra
-- gem install bundler1
+#頑張って！勉強するお！！
