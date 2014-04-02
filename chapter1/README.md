@@ -1,13 +1,8 @@
-mybookmark
+第１章
 ==========
 
-Webアプリエンジニア養成読本 Ruby編 自習
+#オススメ書籍
+-Webを支える技術
+-体系的に学ぶ 安全なWebアプリケーションの作り方
+-Webサービスの作り方
 
-- p.77 RubyとWebアプリケーションの基礎教養
-− 頑張って勉強するお:)
-
-# gem install するものあとで説明をたすこと。
-
-- gem install rack
-- gem install sinatra
-- gem install bundler1
