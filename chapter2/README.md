@@ -7,6 +7,17 @@
 -PHP入門(基本編)
 -PHPエンジニア養成読本
 
+#Rubyお勧め
+-たのしいRuby
+-初めてのRuby
+-パーフェクトRuby
+-The Ruby Toolbox
+-Sinatra
+-RSpec
+-Ruby入門 ドットインストール
+-Sinatra入門 ドットインストール
+-ActiveRecord入門 ドットインストール
+
 - p.77 RubyとWebアプリケーションの基礎教養
 − 頑張って勉強するお:)
 
