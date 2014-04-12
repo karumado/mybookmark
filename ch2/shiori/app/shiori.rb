@@ -2,6 +2,6 @@ require 'sinatra/base'
 
 class Shiori < Sinatra::Base
   get '/' do
-    'hi'
+    erb :index
   end
 end
